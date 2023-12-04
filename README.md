@@ -7,7 +7,8 @@
 # 구글 console 설정 방법
 https://console.cloud.google.com/apis/credentials/oauthclient
 
-![img.png](../../Downloads/walkaryHJ/src/img.png)
+![img](https://github.com/donghee9/ForHJ/assets/129722492/b34e3e6e-8a26-40a9-b040-03cd1ba69467)
+
 
 
 
@@ -23,7 +24,7 @@ https://console.cloud.google.com/apis/credentials/oauthclient
 9. 구글에서 user info를 전달
 10. /login/oauth2/code/google 에서 user info를 받아서 로그인 처리
  
-![img_2.png](../../Downloads/walkaryHJ/src/img_2.png)
+![img_2](https://github.com/donghee9/ForHJ/assets/129722492/f5d6988d-2749-49c2-97ca-299501dc10d7)
 
 
 # 정리 잘된 사이트
